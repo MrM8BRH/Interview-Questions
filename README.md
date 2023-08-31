@@ -1,6 +1,13 @@
-# interview-questions
-A curated awesome list of lists of interview questions. Feel free to contribute!
-### Security & Network & System
+## Interview Question Repository
+
+Welcome to the Interview Question Repository, a comprehensive collection of interview questions spanning various technical domains. Whether you're preparing for a job interview, looking to brush up on your knowledge, or simply curious about challenging questions in the tech field, this repository is here to assist you.
+
+## Disclaimer
+
+Please note that the questions provided in this repository are for educational and reference purposes only. The accuracy of these questions cannot be guaranteed, and their suitability for specific interviews may vary. It's recommended to cross-reference with other sources and tailor your preparation accordingly.
+
+
+## Security, Network, DevOps and System Interview Questions
 - Differentiate between Routers and Switches, highlighting their respective functionalities and use cases in a network environment.
 - Compare Switches and Hubs, outlining the distinctions in terms of collision domains, unicast, multicast, broadcast, half-duplex, and full-duplex communication.
 - Explain the significance of various protocols and ports such as ARP, ICMP, DHCP, DNS, HTTP, HTTPS, RDP, SMTP, and LDAP in network communication.
@@ -41,8 +48,14 @@ A curated awesome list of lists of interview questions. Feel free to contribute!
 - What are the best practices for securing sensitive data stored in databases and how can encryption play a crucial role in this context?
 - Can you explain the role of a mail gateway in an organization's cybersecurity strategy and how SPF (Sender Policy Framework) and DKIM (DomainKeys Identified Mail) technologies contribute to enhancing email security? Could you provide an example of a real-world scenario where the correct implementation of SPF and DKIM could have prevented a potential email-based security breach?
 
+## Additional Resources:
+
+For further preparation, you might find the following resources useful:
+
 ### Security
 [Cybersecurity Career Path](https://github.com/rezaduty/cybersecurity-career-path)
+
+[Open-Source-Security-Guide](https://github.com/mikeroyal/Open-Source-Security-Guide)
 
 [Cybersecurity Interview Questions](https://github.com/nixonion/Cybersecurity-Interview-Questions)
 
