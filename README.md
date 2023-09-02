@@ -52,6 +52,21 @@ Please note that the questions provided in this repository are for educational a
 
 For further preparation, you might find the following resources useful:
 
+### General
+[Tutorials](https://start.me/w/4OyXDq)
+
+[Courses](https://start.me/w/7GvYw2)
+
+[Open Source Code](https://start.me/w/4OyXmy)
+
+[YouTube - EN](https://start.me/w/YJqeGa)
+
+[YouTube - AR](https://start.me/w/aJaQmM)
+
+[Blogs - Articles](https://start.me/w/qPRg5n)
+
+[IT & Cybersecurity](https://start.me/p/KMqznE/it-cyber-security)
+
 ### Security
 [Web AppSec Interview Questions](https://tib3rius.com/interview-questions)
 
@@ -78,11 +93,11 @@ For further preparation, you might find the following resources useful:
 ### Network
 [Top 100 Networking Interview Questions & Answers from Career Guru](https://www.guru99.com/networking-interview-questions.html)
 
-[Top 100 Networking Interview Questions & Answers](https://github.com/nairuzabulhul/.CodeBits/blob/master/InterviewQuestions/Top%20100%20Networking%20Interview%20Questions%20%26%20Answers.md)
-
 [Networking Interview Questions](https://www.interviewbit.com/networking-interview-questions/)
 
-### DevOps
-[devops exercises](https://github.com/bregman-arie/devops-exercises)
+### DevOps & DevSecOps
+[Devops Exercises](https://github.com/bregman-arie/devops-exercises)
 
-[devops interview questions](https://github.com/Devinterview-io/devops-interview-questions)
+[Devops Interview Questions](https://github.com/Devinterview-io/devops-interview-questions)
+
+[DevSecOps Guides](https://devsecopsguides.com/)
