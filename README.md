@@ -53,6 +53,8 @@ Please note that the questions provided in this repository are for educational a
 For further preparation, you might find the following resources useful:
 
 ### Security
+[Web AppSec Interview Questions](https://tib3rius.com/interview-questions)
+
 [Cybersecurity Career Path](https://github.com/rezaduty/cybersecurity-career-path)
 
 [Open-Source-Security-Guide](https://github.com/mikeroyal/Open-Source-Security-Guide)
