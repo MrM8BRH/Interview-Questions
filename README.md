@@ -267,6 +267,10 @@ gather all the required data ?
 
 For further preparation, you might find the following resources useful:
 
+[Find awesome jobs and talents in InfoSec / Cybersecurity](https://infosec-jobs.com/)
+
+[Step by step guide to becoming a Cyber Security Expert in 2023](https://roadmap.sh/cyber-security)
+
 ### General
 [Interview Questions (PDF)](https://mega.nz/folder/gngExCLI#v6ZYW_7LWLrRntZLhLfUhg)
 
