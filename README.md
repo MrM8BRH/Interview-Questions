@@ -267,9 +267,11 @@ gather all the required data ?
 
 For further preparation, you might find the following resources useful:
 
-[Find awesome jobs and talents in InfoSec / Cybersecurity](https://infosec-jobs.com/)
+[Cybersecurity Career Path](https://github.com/rezaduty/cybersecurity-career-path)
 
 [Step by step guide to becoming a Cyber Security Expert in 2023](https://roadmap.sh/cyber-security)
+
+[Find awesome jobs and talents in InfoSec / Cybersecurity](https://infosec-jobs.com/)
 
 ### General
 [Interview Questions (PDF)](https://mega.nz/folder/gngExCLI#v6ZYW_7LWLrRntZLhLfUhg)
@@ -278,8 +280,6 @@ For further preparation, you might find the following resources useful:
 
 ### Security
 [Web AppSec Interview Questions](https://tib3rius.com/interview-questions)
-
-[Cybersecurity Career Path](https://github.com/rezaduty/cybersecurity-career-path)
 
 [Open-Source-Security-Guide](https://github.com/mikeroyal/Open-Source-Security-Guide)
 
