@@ -565,8 +565,10 @@ For further preparation, you might find the following resources useful:
 [Networking Interview Questions](https://www.interviewbit.com/networking-interview-questions/)
 
 ### DevOps & DevSecOps
+[DevSecOps Guides](https://devsecopsguides.com/)
+
+[Ultimate DevSecOps library](https://github.com/sottlmarek/DevSecOps)
+
 [Devops Exercises](https://github.com/bregman-arie/devops-exercises)
 
 [Devops Interview Questions](https://github.com/Devinterview-io/devops-interview-questions)
-
-[DevSecOps Guides](https://devsecopsguides.com/)
