@@ -527,6 +527,8 @@ gather all the required data ?
 
 For further preparation, you might find the following resources useful:
 
+[Awesome Interview Questions Repository](https://github.com/DopplerHQ/awesome-interview-questions)
+
 [Cybersecurity Career Path](https://github.com/rezaduty/cybersecurity-career-path)
 
 [Step by step guide to becoming a Cyber Security Expert in 2023](https://roadmap.sh/cyber-security)
