@@ -4,8 +4,8 @@
 [![GitHub stars](https://img.shields.io/github/stars/mrm8brh/Interview-Questions)](https://github.com/mrm8brh/Interview-Questions/stargazers)
 [![GitHub issues](https://img.shields.io/github/issues/mrm8brh/Interview-Questions)](https://github.com/mrm8brh/Interview-Questions/issues)
 [![GitHub forks](https://img.shields.io/github/forks/mrm8brh/Interview-Questions)](https://github.com/mrm8brh/Interview-Questions/forks)
-[![GitHub forks](https://img.shields.io/github/watchers/mrm8brh/Interview-Questions)](https://github.com/mrm8brh/Interview-Questions/watchers)
-[![GitHub forks](https://img.shields.io/github/license/mrm8brh/Interview-Questions)](https://github.com/MrM8BRH/Interview-Questions/blob/master/LICENSE)
+[![GitHub watchers](https://img.shields.io/github/watchers/mrm8brh/Interview-Questions)](https://github.com/mrm8brh/Interview-Questions/watchers)
+[![GitHub license](https://img.shields.io/github/license/mrm8brh/Interview-Questions)](https://github.com/MrM8BRH/Interview-Questions/blob/master/LICENSE)
 [![StandWithPalestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/badges/StandWithPalestine.svg)](https://github.com/TheBSD/StandWithPalestine/blob/main/docs/README.md)
   
 </div>
