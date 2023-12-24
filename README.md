@@ -554,6 +554,192 @@ gather all the required data ?
 
 </details>
 
+## Interviews-What-not-to-say
+<details>
+<summary>List</summary>
+
+Interviews are nothing if not opportunities to drive yourself crazy. 
+
+Just remind yourself to look good, appear confident, say all the right things and don't say any of the wrong ones. 
+
+It shouldn't be so hard to follow these guidelines except you'll be on the receiving end of an endless line of questions. Factor in your nerves and you'll be lucky to remember your own name.
+
+Don't fret.
+
+If you walk into the interview prepared, you can make sure you know what right things to say, and you can stop yourself from saying the following wrong things.
+
+1. "I hated my last boss." Your last boss was a miserable person whose main concern was making your life miserable. Of course you don't have a lot of nice things to say; however, don't mistake honesty, which is admirable, for trash-talking, which is despicable.
+
+"If you truly did hate your last boss, I would be prepared to articulate why your last organization and relationship was not right for you," says Greg Moran, director of industry sales and partnerships for Talent Technology Corp. "Then be prepared to explain what type of organization is right for you and what type of management style you best respond to."
+
+Don't Miss
+
+- [10 best excuses for coming to work late](https://edition.cnn.com/2008/LIVING/worklife/06/09/cb.late.excuses/index.html)
+- [12 things to consider before taking your first job](https://edition.cnn.com/2008/LIVING/worklife/06/25/cb.first.job/index.html)
+- [More CareerBuilder.com stories](http://edition.cnn.com/LIVING/careers/archive)
+
+2. "I don't know anything about the company." Chances are the interviewer will ask what you know about the company. If you say you don't know anything about it, the interviewer will wonder why you're applying for the job and will probably conclude you're after money, not a career.
+
+"With today's technology," Moran says, "there is no excuse for having no knowledge of a company except laziness and/or poor planning -- neither of which are attributes {of potential employees} sought by many organizations."
+
+3. "No, I don't have any questions for you." Much like telling the interviewer that you don't know anything about the company, saying you don't have any questions to ask also signals a lack of interest. Perhaps the interviewer answered every question or concern you had about the position, but if you're interested in a future with this employer, you can probably think of a few things to ask.
+
+"Research the company before you show up," Moran advises. "Understand the business strategy, goals and people. Having this type of knowledge will give you some questions to keep in your pocket if the conversation is not flowing naturally."
+
+4. "I'm going to need to take these days off." "We all have lives and commitments and any employer that you would even consider working for understands this. If you progress to an offer stage, this is the time for a discussion regarding personal obligations," Moran suggests. "Just don't bring it up prior to the salary negotiation/offer stage."
+
+Why? By mentioning the days you need off too early in the interview, you risk coming off presumptuous as if you know you'll get the job.
+
+5. "How long until I get a promotion?" While you want to show that you're goal-oriented, be certain you don't come offas entitled or ready to leave behind a job you don't even have yet.
+
+"There are many tactful ways to ask this question that will show an employer that you are ambitious and looking at the big picture," Moran offers. "For example, asking the interviewer to explain the typical career path for the position is fine."
+
+Another option is to ask the interviewer why the position is open, Moran adds. You might find out it's due to a promotion and can use that information to learn more about career opportunities.
+
+6. "Are you an active member in your church?" As you attempt to make small talk with an interviewer, don't cross the line into inappropriate chitchat. Avoid topics that are controversial or that veer too much from work.
+
+"This sounds obvious but many times I have been interviewing candidates and been asked about my personal hobbies, family obligations, et cetera," Moran says. "Attempting to develop a rapport is essential but taking it too far can bring you into some uncomfortable territory."
+
+7. "As Lady Macbeth so eloquently put it..." Scripted answers, although accurate, don't impress interviewers. Not only do they make you sound rehearsed and stiff, they also prevent you from engaging in a dialogue.
+
+"This is a conversation between a couple humans that are trying to get a good understanding of one another. Act accordingly," Moran reminds.
+
+8. "And another thing I hate..." Save your rants for your blog. When you're angry, you don't sway anybody's opinion about a topic, but you do make them like you less. For one thing, they might disagree with you. They also won't take kindly to your bad attitude.
+
+"If you are bitter, keep it inside and show optimism. Start complaining and you will be rejected immediately," Moran warns. "Do you like working with a complainer? Neither will the interviewer."
+
+</details>
+
+
+## Interview-Tips
+<details>
+<summary>List</summary>
+
+OVERVIEW:
+
+Advance preparation for the interview is KEY to calming down the “jitters” before the actual interview. It is normal to be nervous for the interview but lack of preparation will only enhance that tense, uneasy feeling. Please review the below to insure you perform at your peak for each and every interview. Remember to NEVER take any interview for granted as it may result in a strong, future contact even if the job you are interviewing for is not the ideal fit.
+
+1. Researching a company (and a specific business unit) is a critical first step in preparing for an interview. Review the web-site, perform an internet search using Google and review Bloomberg/Reuters for recent company news. It is vitally important to be able to respond confidently to the question: "Why would you want to work for our company and/or our business unit?”
+
+2. Proper business attire is very important which include a dark grey or blue suit with solid white or light blue shirts/blouses. In a corporate environment, the following is usually frowned upon: long hair (on men), goatees (on men), ear rings (on men), nose rings, etc. Please be sure to use your judgment and always put your best foot forward. Additionally, remember to bring an extra copy of your resume including 2-3 professional references from a direct supervisor/manager and an attaché or briefcase to carry your professional belongings.
+
+3. Arrive to the interview 10-15 minutes early - NEVER be late for an interview. Be sure to have all interview contact information readily accessible in the event there is a mix-up or you’re running late. In circumstances beyond your control, first call the interviewer directly to advise that you are running late; and then, secondly, call your Recruiter to give us an opportunity to call the employer, as well.
+
+4. Upon initial greetings, always give a firm handshake, warm smile and direct eye contact. Please try to avoid excessive hand movements, poor eye contact and slouching in your seat. Integrate your personality and don’t be afraid to smile sinceyou will most likely be working with this person in close proximity. Both your skill sets and personality fit can be equally important to the interviewer.
+
+5. Selling your skills is as important as listening to what the interviewer is looking for in his/her ideal candidate. Be prepared to sell your SRA (skills, responsibilities and 3-5 accomplishments) but it is critical you know which of those SRAs are requirements of the role. It is recommended that you ask questions that serve more as “information gathering” rather than “preferential”: i.e. “How much of the role involves accounting work versus the analytical component” (information gathering) rather than “I’d love to get more involved with the analysis” (preferential question). 
+
+Avoid over talking and instead focus on concise, clear, direct answers to the Interviewers’ questions. Also, remember NOT to over-talk the interviewer and wait until the appropriate time to respond to all questions/inquiries. Always make sure to answer questions honestly and never put information on your resume that you can’t back up on the interview. First impressions are critical and you don’t want to create any false perceptions of your capabilities.
+
+
+INTERVIEW QUESTIONS “You May Be Asked”:
+
+-Please give us examples of how you handled an adverse situation (i.e. tough client) or a stressful deadline?
+
+- What attributes or skills separates you from other professionals in your field?
+
+- List 3 of your biggest accomplishments and 1-2 weaknesses (or areas requiring improvement). Be careful with the “weakness’ question; ask your recruiter how to handle.
+
+- Why are you looking to leave your current position and what are you looking for in your next role?
+
+- What do you know about our company and why are you interested in this position?
+
+- What have you liked and disliked about your current & previous positions? (Remember to stay positive; negative comments about former employers are frowned upon)
+
+- What are your short-term and long-term career goals?
+
+- Do you have any supervisory experience? If so, is that a requirement of your next position?
+
+- Tell me the biggest challenge in yourcareer to date.
+
+- Is there a particular industry or company size preference you have? For example, small versus large firm and tell me the advantages of each.
+
+- Please explain your job moves and if applicable, why you were laid off or stayed less than a year in any position?
+
+- How long have you been looking for a new job? If applicable, why do you feel it is taking so long for you to find the right position?
+
+- How best would your supervisor/manager and staff (if applicable) describe you as a professional?
+
+- What are you looking for in your base salary and/or total compensation? How did you arrive at these numbers? (Best answer: “My main focus is finding the right opportunity and a Fair Market Offer. I’d also prefer to have your recruiter negotiate on my behalf and leave you with the fact that I’m extremely interested & excited about this position and your company.”)
+
+- Do you have any questions about the position or the company that I can answer for you? (Note, it is critical that you have relevant questions for the interviewer – see “next section.”)
+
+
+INTERVIEW QUESTIONS “You Should Ask”
+
+- I have a solid overview of the position; can you tell me more about the specific skills and responsibilities that are keys to my success in this role?
+
+- How would you describe your ideal candidate?
+
+- How would you describe a typical day for this role? What are some of the daily, weekly & month-end deadlines that I need to be aware of?
+
+- Which groups will I be interfacing with and have exposure to on a regular basis?
+
+- What has been the short and long-term career path for others that have been in this or similar positions within your company?
+
+- Can you tell me more about your background and other members of the group?
+
+- What do you like most about your current role?
+
+- Is there anything else in my background that I can expand upon?
+
+- IMPORTANT: Do not ask any questions regarding Compensation, Hours or Benefits.
+
+
+INTERVIEW “STUFF TO ALWAYS AVOID”:
+
+- NO backup copies of your resume; remember to always bring multiple copies
+
+- Poor attention detail including an incomplete, inaccurate or sloppy application
+
+- Arriving to an interview late and without a preemptive call to notify interviewer
+
+- Unprofessional attire including jeans or casual clothes
+
+- Poor eye contact & a weak, limp handshake
+
+- Discussing compensation, hours & benefits INSTEAD of focusing on the opportunity
+
+- Negative portrayal of past employers and/or job responsibilities
+
+- Over-confident or lacking confidence – both can “hurt” your chances
+
+- Indirect/vague answers to questions as opposed to direct/concise answers
+
+- Lack of short term and long term career goals that are in sync with the responsibilities of the position
+
+- Lacking any relevant questions for the interviewer; this is often interpreted as a lack of interest or motivation in the role
+
+- Overanxious to bypass current role for future opportunities…”not willing to pay your dues”
+
+- Too lackadaisical; interviewing only to get a better sense of market value OR to draw better compensation from current employer in the form of a “counter-offer”
+
+- Obvious lack of interest or enthusiasm in the company or the role
+
+- Unable to take criticism or responding harshly to aggressive questioning from the interviewer i.e. low GPAs or a lot of job moves should be accompanied by a concise, non-evasive explanations
+
+- Inability to handle pressure; appearing too nervous during the interview. Remember, some nervousness is healthy BUT don’t allow it to prevent you from performing at a high level during the meeting
+
+</details>
+
+## OTHER QUESTIONS 
+<details>
+<summary>List</summary>
+   
+1. What would you consider to be the most important aspects of this job?
+   
+2. What are the skills and attributes you value most for someone being hired for this position?
+
+3. Could you describe a typical day or week in this position? The typical client or customer I would be dealing with? The expectations To determine how and when you will evaluated, Payne recommend advises asking:
+
+5. What are the performance expectations of this position over the first 12 months?
+
+7. What types of skills do you NOT already have onboard that you're looking to fill with a new hire? The department asking about your department's workers and role in the company can help you understand more about the company's culture and hierarchy.
+
+9. What is the overall structure of the company and how does your department fit the structure? 
+
+</details>
+   
 ## Additional Resources:
 
 For further preparation, you might find the following resources useful:
